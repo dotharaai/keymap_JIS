@@ -1,2 +1,2 @@
 # keymap_JIS
-additional key define for JIS keyboard
+additional key definition for JIS keyboard
